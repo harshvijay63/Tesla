@@ -1,5 +1,5 @@
 # Tesla-Clone
-A Responsive real-like Tesla Clone created with ReactJs,React-router, Firebase for authentication, Redux for state management, AOS, Styled-components and Material-UI.
+A Responsive real-like Tesla Clone created with ReactJs,React-router,Redux for state management, AOS, Styled-components and Material-UI.
 
 ## Features
 --> Active navbar similar to original
@@ -21,7 +21,7 @@ A Responsive real-like Tesla Clone created with ReactJs,React-router, Firebase f
 
 node.js is required to get `npm`.
 
-If you would like to download the code and try it for yourself:
+If you would like to download the code and try it for yourself
 
 `cd Tesla-clone-reactjs`
 
