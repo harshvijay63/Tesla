@@ -16,7 +16,6 @@ A Responsive real-like Tesla Clone created with ReactJs,React-router, Firebase f
 
 --> Your personal dashboard on account tab
 
-https://user-images.githubusercontent.com/76790227/150206617-44350bb2-28d6-4a59-9136-676d798cae07.mp4
 
 ## Installation
 
